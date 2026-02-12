@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarun-shakya" alt="sarun-shakya" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **sarunshakya414@gmail.com**
 
